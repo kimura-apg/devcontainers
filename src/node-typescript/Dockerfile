@@ -3,8 +3,8 @@ FROM node:${VERSION}
 
 RUN apt-get update && apt-get install -y \
   sudo \
-  zsh \
   curl \
+  zsh \
   wget \
   git \
   vim \
