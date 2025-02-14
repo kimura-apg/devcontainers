@@ -5,8 +5,8 @@ RUN apt-get update && apt-get install -y \
   sudo \
   zsh \
   curl \
-  git \
   wget \
+  git \
   vim \
   lsb-release \
   gnupg \
